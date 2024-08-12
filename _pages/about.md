@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Information Technology at the George Mason University, advised by [Lei Yang](https://leiyang0416.github.io/) and [Weiwen Jiang](https://jqub.github.io/). My research interest includes *edge machine learning*, *AI4Science on edge*, *effiencient AI*. I have published 10+ conference and journal papers ([Google scholar](https://scholar.google.com/citations?user=otFECasAAAAJ&hl)).
-I also collaborate with [Youzuo Lin](https://sites.google.com/site/youzuolin044/home) from University of North Carolina at Chapel Hill and Los Alamos National Lab closely.
+I am currently a Ph.D. student in the Department of Electrical and Computer Engineering, at George Mason University, under the supervision of [Prof. Weiwen Jiang](https://www.gmu.edu/profiles/wjiang8). I also work closely with [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at the University of Notre Dame, [Prof. Jingtong Hu](https://sites.pitt.edu/~jthu/) at the University of Pittsburgh, and [Prof. Lei Yang](https://www.gmu.edu/profiles/lyang) at George Mason University.
 
-I graduated from School of Information and Software Engineering,
-University of Electronic Science and Technology of China with a bachelor’s degree and a master’s degree, advised by Jinyu Zhan.
+I received my Bachelor’s degree from Jilin University, China, and my Master's degree from Universitat Politècnica de Catalunya in Spain.
+<p style="color: red;">I'm on the academic job market this year. Please reach out for any opportunities!</p>
 
 
 
@@ -59,10 +58,9 @@ University of Electronic Science and Technology of China with a bachelor’s deg
 - *2016.10* Outstanding Graduate Student
 
 # 📖 Educations
-- *2022.08 - now*, George Mason University
-- *2021.09 - 2022.07*, The University of New Mexico
-- *2015.09 - 2018.06*, University of Electronic Science and Technology of China 
-- *2011.09 - 2015.06*, University of Electronic Science and Technology of China
+- *2021.08 - now*, George Mason University (expected 2025)
+- *2018.09 - 2021.06*, Universitat Politècnica de Catalunya 
+- *2012.09 - 2016.06*, Jilin University
 
 # 💬 Invited Talks
 - *2024.06*, Gave the tutorial of [Deep Learning Techniques for Wave-Based Imaging](https://junhuanyang.github.io/Computational-Wave-Imaging/) at [SIAM 2024](https://www.siam.org/conferences/cm/program/minitutorials/is24-minitutorials)
