@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yi Sheng's personal page"
 description              : "Ph.D. Student @ George Mason University"
-repository               : "Yisheng/yisheng.github.io"
+repository               : #"Yisheng/yisheng.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
