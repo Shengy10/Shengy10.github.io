@@ -24,16 +24,16 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 
 
-Research Interest
-------
-Design Automation (System) + Medical (Domain) + AI (Method) = Efficient Medical AI System
-\\
-Summary: My research agenda is anchored in advancing AI technology in the medical domain. I am actively engaged in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. My research goal is to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
+# 📝 Research Interest
 
-Professional Experience
+-Design Automation (System) + Medical (Domain) + AI (Method) = Efficient Medical AI System
+\\
+-Summary: My research agenda is anchored in advancing AI technology in the medical domain. I am actively engaged in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. My research goal is to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
+
+# 📝 Professional Experience
 ------
-* TPC Member at IEEE Computer Society Annual Symposium on VLSI (ISLVLSI 2024)
-* Major Organizer of 1st ESFair Challenge at ESWEEK 2023  
+-TPC Member at IEEE Computer Society Annual Symposium on VLSI (ISLVLSI 2024)
+-Major Organizer of 1st ESFair Challenge at ESWEEK 2023  
   
  One of the major organizers for ‘Classification Track: Fair and Intelligent Embedded System Challenge
 (ESFair)’, at the first Tiny and Fair ML Design Contest, co-located at the Embedded Systems Week
