@@ -50,9 +50,6 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 # 📝 Selected Publications 
 
-- *Toward Fair Ultrasound Computing Tomography: Challenges, Solutions and Outlook*,
-**Sheng Y**,Yang J, Lin Y, Jiang W, Yang L
-
 - [*Toward Fair Ultrasound Computing Tomography: Challenges, Solutions and Outlook*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660387), **Sheng Y**, Yang J, Lin Y, Jiang W, Yang L
 
 - [*Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247959), **Sheng Y**, Yang L, Li J, James J, Xu X, Shi Y, Hu J, Jiang W and Yang L
@@ -68,7 +65,7 @@ Yang C∗, **Sheng Y**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X, Wang Y
 **Sheng Y**, Yang J, Yang L, Shi Y, Hu J, Jiang W
 
 
-  - [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912048),
+- [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912048),
 Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 
 
