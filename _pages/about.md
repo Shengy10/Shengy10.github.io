@@ -50,18 +50,36 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 # 📝 Selected Publications 
 
-- *EdGeo: A Physics-guided Generative AI Toolkit for Geophysical Monitoring on Edge Devices*,
-**Junhuan Yang**, Hanchen Wang, Yi Sheng, Youzuo Lin and Lei Yang
+- *Toward Fair Ultrasound Computing Tomography: Challenges, Solutions and Outlook*,
+**Sheng Y**,Yang J, Lin Y, Jiang W, Yang L
 
-- [*Enhanced AI for Science using Diffusion-based Generative AI-A Case Study on Ultrasound Computing Tomography*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660360), **Junhuan Yang**, Yi Sheng, Yuzhou Zhang, Hanchen Wang, Youzuo Lin, Lei Yang
+- [*Toward Fair Ultrasound Computing Tomography: Challenges, Solutions and Outlook*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660387), **Sheng Y**, Yang J, Lin Y, Jiang W, Yang L
 
-- [*On-Device Unsupervised Image Segmentation*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247959), **Junhuan Yang**, Yi Sheng, Yuzhou Zhang, Weiwen Jiang, Lei Yang 
+- [*Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247959), **Sheng Y**, Yang L, Li J, James J, Xu X, Shi Y, Hu J, Jiang W and Yang L
 
-- [*Hardware-aware Automated Architecture Search for Brain-inspired Hyperdimensional Computing*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912048),
-**Junhuan Yang**, Venkat Kalyan Reddy Yasa, Yi Sheng, Dayane Reis, Xun Jiao, Weiwen Jiang, Lei Yang
+- [*APS-USCT: Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912048),
+**Sheng Y**, Wang H, Liu Y, Yang J, Jiang W, Lin Y, Yang L
 
-- [*Automated Architecture Search for Brain-inspired Hyperdimensional Computing*](https://2022.automl.cc/wp-content/uploads/2022/07/automated_architecture_search_.pdf)
-**Junhuan Yang**, Yi Sheng, Sizhe Zhang, Ruixuan Wang, Kenneth Foreman, Mikell Paige, Xun Jiao, Weiwen Jiang, Lei Yang
+- [*Fast and Fair Medical AI on the Edge Through Neural Architecture Search for Hybrid Vision Models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10323652)
+Yang C∗, **Sheng Y**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X, Wang Y
+
+
+- [*Muffin: A framework toward multi-dimension AI fairness by uniting off-the-shelf models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247765),
+**Sheng Y**, Yang J, Yang L, Shi Y, Hu J, Jiang W
+
+
+  - [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912048),
+Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
+
+
+- [*Toward fair and efficient hyperdimensional computing*](https://dl.acm.org/doi/pdf/10.1145/3566097.3568357),
+**Sheng Y**, Yang J, Jiang W, Yang L
+
+
+- [*The larger the fairer? small neural networks can achieve fairness for edge devices*](https://dl.acm.org/doi/pdf/10.1145/3489517.3530427),
+**Sheng Y**, Yang J, Wu Y, Mao K, Shi Y, Hu J, Jiang W, Yang L
+
+
 
 
 # 🎖 Honors and Awards
@@ -75,8 +93,11 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 - *2012.09 - 2016.06*, Jilin University
 
 # 💬 Invited Talks
-- *2024.06*, Gave the tutorial of [Deep Learning Techniques for Wave-Based Imaging](https://junhuanyang.github.io/Computational-Wave-Imaging/) at [SIAM 2024](https://www.siam.org/conferences/cm/program/minitutorials/is24-minitutorials)
+- *2023*, Gave the talk of [Muffin: A Framework Toward Multi-Dimension AI Fairness by Uniting Off-the-Shelf Models] at [DAC 2023]
 
+- *2023.*, Gave the talk of [The Larger The Fairer? Small Neural Networks Can Achieve Fairness for Edge Devices] at [DAC 2023]
+
+- *2023*, Gave the talk of [Toward Fair and Efficient Hyperdimensional Computing] at [ASP-DAC 2023]
 
 # 💻 visitors
 - <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PjgHw-OcfGbkZsa78YFVI6ZcXKW5zhX2-FPP6G9rw5U&cl=ffffff&w=a"></script>
