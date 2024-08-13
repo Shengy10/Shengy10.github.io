@@ -65,7 +65,7 @@ Yang C∗, **Sheng Y**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X, Wang Y
 **Sheng Y**, Yang J, Yang L, Shi Y, Hu J, Jiang W
 
 
-- [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912048),
+- [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247761),
 Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 
 
