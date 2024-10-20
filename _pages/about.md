@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. student in the Department of Electrical and Computer Engineering, at George Mason University, under the supervision of [Prof. Weiwen Jiang](https://www.gmu.edu/profiles/wjiang8). I also work closely with [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at the University of Notre Dame, [Prof. Jingtong Hu](https://sites.pitt.edu/~jthu/) at the University of Pittsburgh, and [Prof. Lei Yang](https://www.gmu.edu/profiles/lyang) at George Mason University.
 
-I received my Bachelor’s degree from Jilin University, China, and my Master's degree from Universitat Politècnica de Catalunya in Spain.
+I received my Bachelor’s degree from Jilin University, China, and my Master's from Universitat Politècnica de Catalunya in Spain.
 <p style="color: red;">I'm on the academic job market this year. Please reach out for any opportunities!</p>
 
 
@@ -45,7 +45,7 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Tutorial on Novel Toolkits toward AI for Science on Resource-Constrained Computing Systems at ESWEEK 2024
+- *2024.09*: &nbsp;🎉🎉 Tutorial on [Novel Toolkits toward AI for Science on Resource-Constrained Computing Systems](https://esfair2023.github.io/esweek_turtorial/) at [ESWEEK 2024](https://esweek.org/)
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by MICCAI 2024
 - *2024.06*: We give the tutorial of [Deep Learning Techniques for Wave-Based Imaging](https://junhuanyang.github.io/Computational-Wave-Imaging/) at [SIAM 2024](https://www.siam.org/conferences/cm/program/minitutorials/is24-minitutorials)
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2024
@@ -54,26 +54,35 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 # 📝 Selected Publications 
 
 - [*Toward Fair Ultrasound Computing Tomography: Challenges, Solutions and Outlook*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660387), **Sheng Y**, Yang J, Lin Y, Jiang W, Yang L
+  
   In Proceedings of the Great Lakes Symposium on VLSI 2024 (pp. 748-753).
 
 - [*Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset*](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_15), **Sheng Y**, Yang L, Li J, James J, Xu X, Shi Y, Hu J, Jiang W and Yang L
+  
   Accepted by the International Conference on Medical Image Computing and Computer-Assisted Intervention 2024
+  
   Acceptance rate: 858/2771=31%
 
 - [*APS-USCT: Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy*](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_10),
 **Sheng Y**, Wang H, Liu Y, Yang J, Jiang W, Lin Y, Yang L
+  
   Accepted by the International Conference on Medical Image Computing and Computer-Assisted Intervention 2024
+  
   Acceptance rate: 858/2771=31%
 
 - [*Fast and Fair Medical AI on the Edge Through Neural Architecture Search for Hybrid Vision Models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10323652)
 Yang C∗, **Sheng Y**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X, Wang Y
+
 In 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD) 2023 Oct 28 (pp. 01-09). IEEE.
+
 Acceptance rate: 172/750=22.9%
 
 
 - [*Muffin: A framework toward multi-dimension AI fairness by uniting off-the-shelf models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247765),
 **Sheng Y**, Yang J, Yang L, Shi Y, Hu J, Jiang W
+  
 In 60th ACM/IEEE Design Automation Conference (DAC) 2023 Jul 9 (pp. 1-6). IEEE.
+
 Acceptance rate: 263/1156=22.7%
 
 - [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247761),
@@ -82,12 +91,15 @@ Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 
 - [*Toward fair and efficient hyperdimensional computing*](https://dl.acm.org/doi/pdf/10.1145/3566097.3568357),
 **Sheng Y**, Yang J, Jiang W, Yang L
+  
   In Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC) 2023 Jan 16 (pp. 612-617).
 
 
 - [*The larger the fairer? small neural networks can achieve fairness for edge devices*](https://dl.acm.org/doi/pdf/10.1145/3489517.3530427),
 **Sheng Y**, Yang J, Wu Y, Mao K, Shi Y, Hu J, Jiang W, Yang L
+  
   In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC) 2022 Jul 10 (pp. 163-168).
+  
   Acceptance rate: 223/987=22.6%
 
 
@@ -111,7 +123,7 @@ Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 
 - *2023*, Gave the talk of [Toward Fair and Efficient Hyperdimensional Computing] at [ASP-DAC 2023]
 
-- - *2024.*, Gave the talk on [Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy] at [ESWEEK 2024]
+- *2024*, Gave the talk on [Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy] at [ESWEEK 2024]
 
 # 💻 visitors
 - <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PjgHw-OcfGbkZsa78YFVI6ZcXKW5zhX2-FPP6G9rw5U&cl=ffffff&w=a"></script>
