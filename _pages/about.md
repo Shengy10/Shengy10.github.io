@@ -28,11 +28,15 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 -Design Automation (System) + Medical (Domain) + AI (Method) = Efficient Medical AI System
 \\
--Summary: My research agenda is anchored in advancing AI technology in the medical domain. I am actively engaged in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. My research goal is to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
+-Summary: My research agenda is anchored in advancing AI technology in the medical domain. I actively engage in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. My research goal is to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
 
 # 📝 Professional Experience
 ------
--TPC Member at IEEE Computer Society Annual Symposium on VLSI (ISLVLSI 2024)
+-TPC Member at IEEE Computer Society Annual Symposium on VLSI (ISLVLSI 2024, 2025)
+
+-Journal Reviewer for IEEE Transactions on Circuits and Systems II
+
+-Journal Reviewer for Journal Reviewer for IEEE Access
 
 -Major Organizer of 1st ESFair Challenge at ESWEEK 2023  
   
@@ -50,19 +54,27 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 # 📝 Selected Publications 
 
 - [*Toward Fair Ultrasound Computing Tomography: Challenges, Solutions and Outlook*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660387), **Sheng Y**, Yang J, Lin Y, Jiang W, Yang L
+  In Proceedings of the Great Lakes Symposium on VLSI 2024 (pp. 748-753).
 
 - [*Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset*](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_15), **Sheng Y**, Yang L, Li J, James J, Xu X, Shi Y, Hu J, Jiang W and Yang L
+  Accepted by the International Conference on Medical Image Computing and Computer-Assisted Intervention 2024
+  Acceptance rate: 858/2771=31%
 
 - [*APS-USCT: Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy*](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_10),
 **Sheng Y**, Wang H, Liu Y, Yang J, Jiang W, Lin Y, Yang L
+  Accepted by the International Conference on Medical Image Computing and Computer-Assisted Intervention 2024
+  Acceptance rate: 858/2771=31%
 
 - [*Fast and Fair Medical AI on the Edge Through Neural Architecture Search for Hybrid Vision Models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10323652)
 Yang C∗, **Sheng Y**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X, Wang Y
+In 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD) 2023 Oct 28 (pp. 01-09). IEEE.
+Acceptance rate: 172/750=22.9%
 
 
 - [*Muffin: A framework toward multi-dimension AI fairness by uniting off-the-shelf models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247765),
 **Sheng Y**, Yang J, Yang L, Shi Y, Hu J, Jiang W
-
+In 60th ACM/IEEE Design Automation Conference (DAC) 2023 Jul 9 (pp. 1-6). IEEE.
+Acceptance rate: 263/1156=22.7%
 
 - [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247761),
 Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
@@ -70,10 +82,13 @@ Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 
 - [*Toward fair and efficient hyperdimensional computing*](https://dl.acm.org/doi/pdf/10.1145/3566097.3568357),
 **Sheng Y**, Yang J, Jiang W, Yang L
+  In Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC) 2023 Jan 16 (pp. 612-617).
 
 
 - [*The larger the fairer? small neural networks can achieve fairness for edge devices*](https://dl.acm.org/doi/pdf/10.1145/3489517.3530427),
 **Sheng Y**, Yang J, Wu Y, Mao K, Shi Y, Hu J, Jiang W, Yang L
+  In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC) 2022 Jul 10 (pp. 163-168).
+  Acceptance rate: 223/987=22.6%
 
 
 
