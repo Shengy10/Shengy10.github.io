@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in the Department of Electrical and Computer Engineering, at George Mason University, under the supervision of [Prof. Weiwen Jiang](https://www.gmu.edu/profiles/wjiang8). I also work closely with [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at the University of Notre Dame, [Prof. Jingtong Hu](https://sites.pitt.edu/~jthu/) at the University of Pittsburgh, and [Prof. Lei Yang](https://www.gmu.edu/profiles/lyang) at George Mason University.
+I am currently a Ph.D. student in the Department of Electrical and Computer Engineering, at George Mason University, under the supervision of [Prof. Weiwen Jiang](https://www.gmu.edu/profiles/wjiang8). I also work closely with [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at the University of Notre Dame, [Prof. Jingtong Hu](https://sites.pitt.edu/~jthu/) at the University of Pittsburgh, and [Prof. Lei Yang](https://www.gmu.edu/profiles/lyang) at George Mason University. [CV](https://drive.google.com/file/d/1XSvL5JzYG0mVCdek1bJWgP-uHsgsmxUC/view?usp=drive_link)
 
 I received my Bachelor’s degree from Jilin University, China, and my Master's from Universitat Politècnica de Catalunya in Spain.
 <p style="color: red;">I'm on the academic job market this year. Please reach out for any opportunities!</p>
