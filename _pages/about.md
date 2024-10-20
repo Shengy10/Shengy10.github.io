@@ -45,7 +45,7 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Tutorial on [Novel Toolkits toward AI for Science on Resource-Constrained Computing Systems](https://esfair2023.github.io/esweek_turtorial/) at [ESWEEK 2024](https://esweek.org/)
+- *2024.09*: &nbsp; Tutorial on [Novel Toolkits toward AI for Science on Resource-Constrained Computing Systems](https://esfair2023.github.io/esweek_turtorial/) at [ESWEEK 2024](https://esweek.org/)
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by MICCAI 2024
 - *2024.06*: We give the tutorial of [Deep Learning Techniques for Wave-Based Imaging](https://junhuanyang.github.io/Computational-Wave-Imaging/) at [SIAM 2024](https://www.siam.org/conferences/cm/program/minitutorials/is24-minitutorials)
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2024
@@ -119,6 +119,7 @@ Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 # 🎖 Honors and Awards
 - *2024.06* DAC Young Fellow
 - *2023.07* DAC Young Fellow
+- *2023.02* Best Poster Award in Student Research Forum at ASP-DAC for “On-Device AI Fairness”
 
 
 # 📖 Educations
