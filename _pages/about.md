@@ -68,14 +68,14 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 - [*Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset*](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_15), **Sheng Y**, Yang L, Li J, James J, Xu X, Shi Y, Hu J, Jiang W and Yang L
   
-  Accepted by the International Conference on Medical Image Computing and Computer-Assisted Intervention 2024
+  Accepted by the International Conference on Medical Image Computing and Computer-Assisted Intervention 2024 (MICCAI 2024)
   
   Acceptance rate: 858/2771=31%
 
 - [*APS-USCT: Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy*](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_10),
 **Sheng Y**, Wang H, Liu Y, Yang J, Jiang W, Lin Y, Yang L
   
-  Accepted by the International Conference on Medical Image Computing and Computer-Assisted Intervention 2024
+  Accepted by the International Conference on Medical Image Computing and Computer-Assisted Intervention 2024 (MICCAI 2024)
   
   Acceptance rate: 858/2771=31%
 
@@ -95,7 +95,9 @@ Yang C∗, **Sheng Y**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X, Wang Y
   Acceptance rate: 263/1156=22.7%
 
 - [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247761),
-Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
+Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X 
+
+  In 2023 60th ACM/IEEE Design Automation Conference (DAC) (pp. 1-2). IEEE.
 
 
 - [*Toward fair and efficient hyperdimensional computing*](https://dl.acm.org/doi/pdf/10.1145/3566097.3568357),
