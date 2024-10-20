@@ -117,9 +117,10 @@ Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 
 
 # 🎖 Honors and Awards
-- *2024.06* DAC Young Fellow
-- *2023.07* DAC Young Fellow
+- *2022.06* DAC Young Fellow
 - *2023.02* Best Poster Award in Student Research Forum at ASP-DAC for “On-Device AI Fairness”
+- *2023.07* DAC Young Fellow
+
 
 
 # 📖 Educations
