@@ -73,17 +73,17 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 - [*Fast and Fair Medical AI on the Edge Through Neural Architecture Search for Hybrid Vision Models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10323652)
 Yang C∗, **Sheng Y**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X, Wang Y
 
-In 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD) 2023 Oct 28 (pp. 01-09). IEEE.
+  In 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD) 2023 Oct 28 (pp. 01-09). IEEE.
 
-Acceptance rate: 172/750=22.9%
+  Acceptance rate: 172/750=22.9%
 
 
 - [*Muffin: A framework toward multi-dimension AI fairness by uniting off-the-shelf models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247765),
 **Sheng Y**, Yang J, Yang L, Shi Y, Hu J, Jiang W
   
-In 60th ACM/IEEE Design Automation Conference (DAC) 2023 Jul 9 (pp. 1-6). IEEE.
+  In 60th ACM/IEEE Design Automation Conference (DAC) 2023 Jul 9 (pp. 1-6). IEEE.
 
-Acceptance rate: 263/1156=22.7%
+  Acceptance rate: 263/1156=22.7%
 
 - [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247761),
 Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
