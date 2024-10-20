@@ -33,16 +33,15 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 # 📝 Professional Experience
 ------
 -TPC Member at IEEE Computer Society Annual Symposium on VLSI (ISLVLSI 2024)
+
 -Major Organizer of 1st ESFair Challenge at ESWEEK 2023  
   
- One of the major organizers for ‘Classification Track: Fair and Intelligent Embedded System Challenge
-(ESFair)’, at the first Tiny and Fair ML Design Contest, co-located at the Embedded Systems Week
-(ESWEEK) 2023. ESFair’23 was sponsored by the Council on Electronic Design Automation (CEDA).
-23 Teams from over 20 organizations participated in ESFair’23.
+ One of the major organizers for the ‘Classification Track: Fair and Intelligent Embedded System Challenge (ESFair)’, at the first Tiny and Fair ML Design Contest, co-located at the Embedded Systems Week (ESWEEK) 2023. ESFair’23 was sponsored by the Council on Electronic Design Automation (CEDA). 23 Teams from over 20 organizations participated in ESFair’23.
 
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Tutorial on Novel Toolkits toward AI for Science on Resource-Constrained Computing Systems at ESWEEK 2024
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by MICCAI 2024
 - *2024.06*: We give the tutorial of [Deep Learning Techniques for Wave-Based Imaging](https://junhuanyang.github.io/Computational-Wave-Imaging/) at [SIAM 2024](https://www.siam.org/conferences/cm/program/minitutorials/is24-minitutorials)
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2024
@@ -52,9 +51,9 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 - [*Toward Fair Ultrasound Computing Tomography: Challenges, Solutions and Outlook*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660387), **Sheng Y**, Yang J, Lin Y, Jiang W, Yang L
 
-- [*Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247959), **Sheng Y**, Yang L, Li J, James J, Xu X, Shi Y, Hu J, Jiang W and Yang L
+- [*Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset*](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_15), **Sheng Y**, Yang L, Li J, James J, Xu X, Shi Y, Hu J, Jiang W and Yang L
 
-- [*APS-USCT: Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9912048),
+- [*APS-USCT: Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy*](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_10),
 **Sheng Y**, Wang H, Liu Y, Yang J, Jiang W, Lin Y, Yang L
 
 - [*Fast and Fair Medical AI on the Edge Through Neural Architecture Search for Hybrid Vision Models*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10323652)
@@ -90,11 +89,14 @@ Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 - *2012.09 - 2016.06*, Jilin University
 
 # 💬 Invited Talks
+
+- *2022.*, Gave the talk of [The Larger The Fairer? Small Neural Networks Can Achieve Fairness for Edge Devices] at [DAC 2022]
+  
 - *2023*, Gave the talk of [Muffin: A Framework Toward Multi-Dimension AI Fairness by Uniting Off-the-Shelf Models] at [DAC 2023]
 
-- *2023.*, Gave the talk of [The Larger The Fairer? Small Neural Networks Can Achieve Fairness for Edge Devices] at [DAC 2023]
-
 - *2023*, Gave the talk of [Toward Fair and Efficient Hyperdimensional Computing] at [ASP-DAC 2023]
+
+- - *2024.*, Gave the talk on [Ultrasound Computed Tomography on Sparse Data via AI-Physic Synergy] at [ESWEEK 2024]
 
 # 💻 visitors
 - <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PjgHw-OcfGbkZsa78YFVI6ZcXKW5zhX2-FPP6G9rw5U&cl=ffffff&w=a"></script>
