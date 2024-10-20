@@ -51,6 +51,15 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2024
 
 
+# 📝 Teaching
+------
+-ECE285, Electric Circuit Analysis I. (Undergraduate Level)
+
+-ECE350, Embedded Systems and Hardware Interfaces. (Undergraduate Level)
+
+-ECE618, Hardware Accelerators for Machine Learning. (Graduate Level) 
+  
+
 # 📝 Selected Publications 
 
 - [*Toward Fair Ultrasound Computing Tomography: Challenges, Solutions and Outlook*](https://dl.acm.org/doi/pdf/10.1145/3649476.3660387), **Sheng Y**, Yang J, Lin Y, Jiang W, Yang L
