@@ -26,7 +26,7 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 # 📝 Research Interest
 
--Design Automation (System) + Medical (Domain) + AI (Method) = Efficient Medical AI System
+**Design Automation (System) + Medical (Domain) + AI (Method) = Efficient Medical AI System**
 \\
 -Summary: My research agenda is anchored in advancing AI technology in the medical domain. I actively engage in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. 
 
