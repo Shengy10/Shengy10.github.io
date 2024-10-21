@@ -28,7 +28,9 @@ I received my Bachelor’s degree from Jilin University, China, and my Master's 
 
 -Design Automation (System) + Medical (Domain) + AI (Method) = Efficient Medical AI System
 \\
--Summary: My research agenda is anchored in advancing AI technology in the medical domain. I actively engage in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. My research goal is to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
+-Summary: My research agenda is anchored in advancing AI technology in the medical domain. I actively engage in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. 
+
+My research goal is to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
 
 # 📝 Professional Experience
 ------
