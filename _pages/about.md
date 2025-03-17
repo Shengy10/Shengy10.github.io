@@ -20,7 +20,8 @@ redirect_from:
 I am currently a Ph.D. student in the Department of Electrical and Computer Engineering, at George Mason University, under the supervision of [Prof. Weiwen Jiang](https://www.gmu.edu/profiles/wjiang8). I also work closely with [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at the University of Notre Dame, [Prof. Jingtong Hu](https://sites.pitt.edu/~jthu/) at the University of Pittsburgh, and [Prof. Lei Yang](https://www.gmu.edu/profiles/lyang) at George Mason University. [CV](https://drive.google.com/file/d/1XSvL5JzYG0mVCdek1bJWgP-uHsgsmxUC/view?usp=drive_link)
 
 I received my Bachelor’s degree from Jilin University, China, and my Master's from Universitat Politècnica de Catalunya in Spain.
-<p style="color: red;">I'm on the academic job market this year. Please reach out for any opportunities!</p>
+<p style="color: red;"> I will join Bellini College of Artificial Intelligence, Cybersecurity and Computing at the University of South Florida in Fall 2025.
+I am looking for 1-2 PhD students with full financial support (TA/RA positions) starting in Fall 2025. If you are interested, please email me at shengy244@gmail.com with the following materials: CV, Transcripts, TOEFL(IELTS) (if available)!</p>
 
 
 
@@ -47,6 +48,7 @@ My research goal is to bridge the practice gap between AI and domain application
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉 Join the University of South Florida (USF) In the Fall 2025
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025
 - *2024.09*: &nbsp; Tutorial on [Novel Toolkits toward AI for Science on Resource-Constrained Computing Systems](https://esfair2023.github.io/esweek_turtorial/) at [ESWEEK 2024](https://esweek.org/)
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by MICCAI 2024
