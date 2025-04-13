@@ -131,7 +131,7 @@ Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X
 
 
 # 📖 Educations
-- *2021.08 - now*, George Mason University (expected 2025)
+- *2021.08 - 2025.04*, George Mason University
 - *2018.09 - 2021.05*, Universitat Politècnica de Catalunya
 - *2012.09 - 2016.06*, Jilin University
 
