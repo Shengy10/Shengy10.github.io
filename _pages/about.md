@@ -21,7 +21,8 @@ I am currently a Ph.D. student in the Department of Electrical and Computer Engi
 
 I received my Bachelor’s degree from Jilin University, China, and my Master's from Universitat Politècnica de Catalunya in Spain.
 <p style="color: red;"> I will join Bellini College of Artificial Intelligence, Cybersecurity and Computing at the University of South Florida in Fall 2025.
-I am looking for 1-2 PhD students with full financial support (TA/RA positions) starting in Fall 2025. If you are interested, please email me at shengy244@gmail.com with the following materials: CV, Transcripts, TOEFL(IELTS) (if available)!</p>
+  
+I am looking for 1-2 PhD students with full financial support (TA/RA positions) starting in Spring or Fall 2026. If you are interested, please email me at shengy244@gmail.com with the following materials: CV, Transcripts, TOEFL(IELTS) (if available)!</p>
 
 
 
@@ -39,7 +40,7 @@ My research goal is to bridge the practice gap between AI and domain application
 
 -Journal Reviewer for IEEE Transactions on Circuits and Systems II
 
--Journal Reviewer for Journal Reviewer for IEEE Access
+-Journal Reviewer for IEEE Access
 
 -Major Organizer of 1st ESFair Challenge at ESWEEK 2023  
   
@@ -48,7 +49,8 @@ My research goal is to bridge the practice gap between AI and domain application
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉 Join the University of South Florida (USF) In the Fall 2025
+- *2025.04*: &nbsp; TPC member for ISLVLSI 2025, GLSVLSI 2025
+- *2025.03*: &nbsp;🎉 Join the University of South Florida (USF) in the Fall 2025
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025
 - *2024.09*: &nbsp; Tutorial on [Novel Toolkits toward AI for Science on Resource-Constrained Computing Systems](https://esfair2023.github.io/esweek_turtorial/) at [ESWEEK 2024](https://esweek.org/)
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by MICCAI 2024
@@ -102,7 +104,7 @@ Yang C∗, **Sheng Y**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X, Wang Y
 - [*Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247761),
 Yang C∗, **Sheng Y∗**, Dong P∗, Kong Z, Li Y, Yu P, Yang L, Lin X 
 
-  In 2023 60th ACM/IEEE Design Automation Conference (DAC) (pp. 1-2). IEEE.
+  In 2023, the 60th ACM/IEEE Design Automation Conference (DAC) (pp. 1-2). IEEE.
 
 
 - [*Toward fair and efficient hyperdimensional computing*](https://dl.acm.org/doi/pdf/10.1145/3566097.3568357),
