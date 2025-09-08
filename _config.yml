@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yi Sheng's personal page"
 description              : "Tenure-track Assistant Professor @ University of South Florida"
-repository               : #"Yisheng/yisheng.github.io"
+# repository               : #"Yisheng/yisheng.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
