@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Page](https://eaho-research-lab.github.io/Homepage/k)
+[Page](https://eaho-research-lab.github.io/Homepage/)
 
 
 
