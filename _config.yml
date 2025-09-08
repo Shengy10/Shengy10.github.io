@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Sheng's personal page"
-description              : "Ph.D. Student @ George Mason University"
+description              : "Tenure-track Assistant Professor @ University of South Florida"
 repository               : #"Yisheng/yisheng.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Sheng"
   avatar           : "images/photo.jpg"
-  bio              : "ysheng2@gmu.edu"
-  location         : "Fairfax, U.S."
-  email            : "ysheng2@gmu.edu"
+  bio              : "sheng1@usf.edu"
+  location         : "Tampa, U.S."
+  email            : "sheng1@usf.edu"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SN69Jk0AAAAJ&hl=en"
